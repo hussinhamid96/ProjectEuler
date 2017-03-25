@@ -3,7 +3,7 @@ package projecteuler;
 public class problem7 {
     public static void main(String[]args){
         
-        int number = 500000;
+        int number = 200000;
         boolean prime[] = new boolean[number+1];
         
         for(int x=2; x<=number; x++){
