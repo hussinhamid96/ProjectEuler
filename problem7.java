@@ -17,17 +17,16 @@ public class problem7 {
                 }
             }
         }
-        long total=0;
-        long a=0;
-        int count1 = 1;
+       
+        int a=0;
+        int count = 1;
         for(int x=2; x<= number; x++){
             if(prime[x]){
                 
-                total += x;
-                if(count1 == 10001){
+                if(count == 10001){
                     a=x;
                 }
-                count1++;
+                count++;
                 
             }
         }
