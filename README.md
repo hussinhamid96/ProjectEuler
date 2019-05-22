@@ -1,3 +1,3 @@
 # ProjectEuler
 
-@mentions hussinhamid96
+# @mentions hussinhamid96
